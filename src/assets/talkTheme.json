@@ -1,27 +1,23 @@
 {
     "talkThemeList": [
         {
-            "talkTheme": "テスト１",
+            "talkTheme": "社員突然自己紹介！(振られた人は自己紹介をお願いします)",
             "tuned": false
         },
         {
-            "talkTheme": "テスト２",
+            "talkTheme": "自粛で始めたおすすめおうち時間の過ごし方",
             "tuned": false
         },
         {
-            "talkTheme": "テスト３",
+            "talkTheme": "最近食べた美味しいもの",
             "tuned": false
         },
         {
-            "talkTheme": "テスト４",
+            "talkTheme": "１年目の業務内容、エピソード、その時の気持ち",
             "tuned": false
         },
         {
-            "talkTheme": "テスト５",
-            "tuned": false
-        },
-        {
-            "talkTheme": "テスト６",
+            "talkTheme": "犬、猫どっち派？",
             "tuned": false
         }
     ]
